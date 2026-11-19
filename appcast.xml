@@ -4,6 +4,15 @@
     <title>ASO Studio</title>
     <!-- ITEMS -->
     <item>
+      <title>0.3.1</title>
+      <pubDate>Thu, 19 Nov 2026 21:44:59 +0300</pubDate>
+      <sparkle:version>202611192144</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>173 ülkenin App Store&#x27;u desteği (önceden 17); aramalı ülke seçici ve bayraklar</li><li>Aynı uygulamayı birden fazla ülkede takip etme: Kelime Takibi → Ülke Ekle (kelimeler kopyalanır)</li><li>&quot;Tüm Ülkeler&quot; ile uygulamanın tüm ülkelerdeki sıralamalarını tek seferde güncelleme</li></ul>]]></description>
+      <enclosure url="https://github.com/EbuzerSimsek/aso-studio-releases/releases/download/v0.3.1/ASOStudio-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="YxYq6kaTHHBzl+ceAni37jzu8M6BYJ9Lk9RD+JfbTbD8cs8je5mS52/eBmYcmEwZnAepOVQzuVGywKeGBLnLDQ==" length="3202862" />
+    </item>
+    <item>
       <title>0.3.0</title>
       <pubDate>Thu, 19 Nov 2026 21:03:50 +0300</pubDate>
       <sparkle:version>202611192103</sparkle:version>
