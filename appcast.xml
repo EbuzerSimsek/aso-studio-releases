@@ -3,5 +3,14 @@
   <channel>
     <title>ASO Studio</title>
     <!-- ITEMS -->
+    <item>
+      <title>0.3.0</title>
+      <pubDate>Thu, 19 Nov 2026 21:03:50 +0300</pubDate>
+      <sparkle:version>202611192103</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Yeni uygulama ikonu</li><li>Otomatik güncelleme (Sparkle): ASO Studio menüsü → Güncellemeleri Kontrol Et</li><li>Rakip takibi ve yorum analizi ekranları</li><li>Kelime popülerlik tahmini, Apple arama önerileri ve sıralama grafiği</li><li>Kelime geçmişi ve yorumlar için CSV dışa aktarma</li></ul>]]></description>
+      <enclosure url="https://github.com/EbuzerSimsek/aso-studio-releases/releases/download/v0.3.0/ASOStudio-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="hPkKrHoqcQKRYPC0EoIPhbxp6Ofuzaa7QitbVJqsfr/0IqECtLfLLSqzUhDuHLsZoYTpKcJdThdRi7qHTLNTCg==" length="3108747" />
+    </item>
   </channel>
 </rss>
